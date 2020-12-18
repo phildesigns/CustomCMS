@@ -1,5 +1,6 @@
 <div id="footer">
-    Widget News &copy; 2011. All rights reserved. <a href="admin.php">Site Admin</a>
+    CustomCMS &copy; 2020. All rights reserved.
+    <br><a href="admin.php"><i class="fas fa-tools"></i> Site Admin</a>
 </div>
 
 </div>
